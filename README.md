@@ -1,6 +1,6 @@
 # Getting Started with this Repo
 
-This is a demo on how to proxy requests through an Nginx server. This demo was delivered during the CBF fest as part of a technical workshop on "Securing Secret Keys in Frontend Applications"
+This is a demo on how to proxy requests through an express server. This demo was delivered during the CBF fest as part of a technical workshop on "Securing Secret Keys in Frontend Applications"
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
